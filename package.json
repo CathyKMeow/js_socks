@@ -1,0 +1,14 @@
+{
+  "name": "socks",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "CC0-1.0 OR Unlicense",
+  "devDependencies": {
+    "@types/node": "^17.0.35"
+  }
+}
